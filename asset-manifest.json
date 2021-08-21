@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rayyan-codes03/reactprojectdemo.git/static/css/main.2a42f6a9.chunk.css",
+    "main.js": "/Rayyan-codes03/reactprojectdemo.git/static/js/main.e6d77a7c.chunk.js",
+    "main.js.map": "/Rayyan-codes03/reactprojectdemo.git/static/js/main.e6d77a7c.chunk.js.map",
+    "runtime-main.js": "/Rayyan-codes03/reactprojectdemo.git/static/js/runtime-main.d4fb1f21.js",
+    "runtime-main.js.map": "/Rayyan-codes03/reactprojectdemo.git/static/js/runtime-main.d4fb1f21.js.map",
+    "static/css/2.818011ed.chunk.css": "/Rayyan-codes03/reactprojectdemo.git/static/css/2.818011ed.chunk.css",
+    "static/js/2.a7127af3.chunk.js": "/Rayyan-codes03/reactprojectdemo.git/static/js/2.a7127af3.chunk.js",
+    "static/js/2.a7127af3.chunk.js.map": "/Rayyan-codes03/reactprojectdemo.git/static/js/2.a7127af3.chunk.js.map",
+    "static/js/3.910805a1.chunk.js": "/Rayyan-codes03/reactprojectdemo.git/static/js/3.910805a1.chunk.js",
+    "static/js/3.910805a1.chunk.js.map": "/Rayyan-codes03/reactprojectdemo.git/static/js/3.910805a1.chunk.js.map",
+    "index.html": "/Rayyan-codes03/reactprojectdemo.git/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Rayyan-codes03/reactprojectdemo.git/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.2a42f6a9.chunk.css.map": "/Rayyan-codes03/reactprojectdemo.git/static/css/main.2a42f6a9.chunk.css.map",
+    "static/js/2.a7127af3.chunk.js.LICENSE.txt": "/Rayyan-codes03/reactprojectdemo.git/static/js/2.a7127af3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4fb1f21.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a7127af3.chunk.js",
+    "static/css/main.2a42f6a9.chunk.css",
+    "static/js/main.e6d77a7c.chunk.js"
+  ]
+}
